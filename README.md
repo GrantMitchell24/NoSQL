@@ -4,10 +4,10 @@ This social network allows teh ability for a user to share their thoughts, react
 
 REPO LINK: https://github.com/GrantMitchell24/NoSQL
 
-VIDEO LINK: 
+VIDEO LINK: https://drive.google.com/file/d/1eRvcOH37uHVMGKzchG5gzrQaa73RXR9L/view 
 
 Author: Grant Mitchell
 
 License: See Repo
 
-![Preview image](./Business%20SQL%20Screenshot.png)
+![Preview image](./Main/assets/insomniascreenshot.png)
